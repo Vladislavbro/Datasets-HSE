@@ -15,17 +15,6 @@ Naming Conventions
 
 Folder Names: Use clear and descriptive names for each dataset folder.
 File Names: Use lowercase letters and underscores for file names (e.g., data_sample.csv).
-Example Structure
 
-Code
-Dataset-HSE/
-├── dataset1/
-│   ├── data.csv
-│   └── README.md
-├── dataset2/
-│   ├── data.json
-│   └── README.md
-└── README.md
-Contribution Guidelines
 
 Contributions are welcome! Please ensure that any new datasets follow the above structure and conventions.
